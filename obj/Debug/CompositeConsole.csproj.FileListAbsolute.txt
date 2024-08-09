@@ -1,0 +1,7 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CompositePatron\CompositeConsole\bin\Debug\CompositeConsole.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CompositePatron\CompositeConsole\bin\Debug\CompositeConsole.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CompositePatron\CompositeConsole\bin\Debug\CompositeConsole.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CompositePatron\CompositeConsole\obj\Debug\CompositeConsole.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CompositePatron\CompositeConsole\obj\Debug\CompositeConsole.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CompositePatron\CompositeConsole\obj\Debug\CompositeConsole.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\CompositePatron\CompositeConsole\obj\Debug\CompositeConsole.pdb
